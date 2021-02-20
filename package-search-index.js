@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.unisoft.core.util"},{"l":"com.unisoft.core.util.log"}]
